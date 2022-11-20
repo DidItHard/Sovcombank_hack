@@ -1,0 +1,12 @@
+export 'package:stock_app/main.dart';
+export 'package:stock_app/screens/entry_page/entry_page.dart';
+export 'package:stock_app/screens/registration_page/registration_page.dart';
+export 'package:stock_app/screens/registration_page/registration_begin_page.dart';
+export 'package:stock_app/screens/code_check_page/code_check_page.dart';
+export 'package:stock_app/screens/forex_page/forex_page.dart';
+export 'package:stock_app/server/constants.dart';
+export 'package:stock_app/screens/passport_photo_verification_page/Passport_photo_verification.dart';
+export 'package:stock_app/screens/registration_end_page/registration_end.dart';
+export 'package:stock_app/screens/registration_end_page/registration_done_page.dart';
+export 'package:stock_app/screens/profile_page/profile_page.dart';
+export 'package:stock_app/screens/forex_pocket_page/forex_page_page.dart';
